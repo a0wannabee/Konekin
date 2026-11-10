@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Konekin</string>
+    <string name="title_list">Daftar Pegawai</string>
+    <string name="title_detail">Detail Pegawai</string>
+    <string name="back">Kembali</string>
+    <string name="retry">Coba lagi</string>
+    <string name="label_id">ID</string>
+    <string name="label_age">Umur</string>
+    <string name="label_salary">Gaji</string>
+    <string name="age_format">%1$d tahun</string>
 </resources>
